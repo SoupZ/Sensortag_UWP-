@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="SensortagBLE.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SensortagBLE"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="400" Width="811">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,10,10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="29*"/>
+        </Grid.RowDefinitions>
+
+        <ListBox DoubleTapped="lbxBLEDevices_DoubleTapped" Name="lbxBLEDevices" HorizontalAlignment="Left" Height="110" Margin="51,74,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.58" Width="712"/>
+        <Button Name="btnScanBleDevices" Content="Scan for BLE Devices" HorizontalAlignment="Left" Margin="51,37,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.517,0.398" Width="712" Click="btnScanBleDevices_Click"/>
+        <Button Name="btnPair" Content="Pair" HorizontalAlignment="Left" Margin="51,86.75,0,0" VerticalAlignment="Top" Width="234" Click="btnPair_ClickAsync" Grid.Row="1"/>
+        <Button Name="btnGetValue" Content="Get Value" HorizontalAlignment="Left" Margin="290,86.75,0,0" VerticalAlignment="Top" Width="229" Click="btnGetValue_ClickAsync" Grid.Row="1"/>
+        <Button Name="btnUnpair" Content="Unpair" HorizontalAlignment="Left" Margin="524,86.75,0,0" VerticalAlignment="Top" Width="239" Click="btnUnpair_ClickAsync" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="110" Margin="51,74,0,0" VerticalAlignment="Top" Width="712" RenderTransformOrigin="0.499,0.499"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="32" Margin="51,86.75,0,0" VerticalAlignment="Top" Width="234" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="32" Margin="290,86.75,0,0" VerticalAlignment="Top" Width="229" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="32" Margin="524,86.75,0,0" VerticalAlignment="Top" Width="239" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="32" Margin="51,37,0,0" VerticalAlignment="Top" Width="712"/>
+        <TextBox IsEnabled="False" Name="txtKortrijk" HorizontalAlignment="Left" Margin="51,44.75,0,0" TextWrapping="Wrap" Text="N/A" VerticalAlignment="Top" RenderTransformOrigin="0.384,0.469" Width="712" TextAlignment="Center" Grid.Row="1"/>
+        <TextBox IsEnabled="False" x:Name="txtbxCelsius" HorizontalAlignment="Left" Margin="51,7.75,0,0" TextWrapping="Wrap" Text="N/A" VerticalAlignment="Top" RenderTransformOrigin="0.384,0.469" Width="712" TextAlignment="Center" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="32" Margin="51,44.75,0,0" VerticalAlignment="Top" Width="712" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="0" Margin="51,175.75,0,-4" VerticalAlignment="Top" Width="712" Grid.Row="1"/>
+        <TextBlock Name="txtblxStatus" HorizontalAlignment="Left" Margin="51,123.75,0,0" TextWrapping="Wrap" Text="N/A" VerticalAlignment="Top" Width="712" TextAlignment="Center" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="32" Margin="51,7.75,0,0" VerticalAlignment="Top" Width="712" Grid.Row="1"/>
+        <TextBox Name="tbxFilter" TextAlignment="Center" HorizontalAlignment="Left" Margin="51,189,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.379,0.62" Grid.RowSpan="2" Width="712"/>
+
+
+    </Grid>
+</Page>

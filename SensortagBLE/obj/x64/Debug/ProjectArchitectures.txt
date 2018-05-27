@@ -1,0 +1,2 @@
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\KortijkWeatherInfo.csproj;neutral
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\SensortagBLE\SensortagBLE.csproj;x64

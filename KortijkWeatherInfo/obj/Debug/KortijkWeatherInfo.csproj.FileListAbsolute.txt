@@ -1,0 +1,17 @@
+C:\School\BLE - Copy (2) - Copy\SensortagBLE\KortijkWeatherInfo\bin\Debug\KortijkWeatherInfo.dll
+C:\School\BLE - Copy (2) - Copy\SensortagBLE\KortijkWeatherInfo\bin\Debug\KortijkWeatherInfo.pdb
+C:\School\BLE - Copy (2) - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.csprojResolveAssemblyReference.cache
+C:\School\BLE - Copy (2) - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.csproj.CoreCompileInputs.cache
+C:\School\BLE - Copy (2) - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.dll
+C:\School\BLE - Copy (2) - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.pdb
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\bin\Debug\KortijkWeatherInfo.dll
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\bin\Debug\KortijkWeatherInfo.pdb
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.csprojResolveAssemblyReference.cache
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.csproj.CoreCompileInputs.cache
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.dll
+C:\School\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.pdb
+C:\School\Sem1\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\bin\Debug\KortijkWeatherInfo.dll
+C:\School\Sem1\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\bin\Debug\KortijkWeatherInfo.pdb
+C:\School\Sem1\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.csproj.CoreCompileInputs.cache
+C:\School\Sem1\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.dll
+C:\School\Sem1\BLE - Copy (2) - Copy - Copy\SensortagBLE\KortijkWeatherInfo\obj\Debug\KortijkWeatherInfo.pdb
